@@ -4268,8 +4268,6 @@ oprocmgr-service
 OpenSQLMonitors/index.html
 OpenSQLMonitors/
 OpenSQLMonitors
-?OpenServer
-?Open
 opc/services/PurchaseOrderIntfPort/wsdl/*
 opc/services/PurchaseOrderIntfPort
 opc/services/OrderTrackingIntfPort/wsdl/*
