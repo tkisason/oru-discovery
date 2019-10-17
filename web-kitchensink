@@ -10,8 +10,6 @@
 .
 ...
 :
-?
-?*
 @
 [
 ]
@@ -33777,7 +33775,6 @@ directory.aspx
 Directory.aspx
 directory.bml
 directory.cfm
-directory		e.g.
 directory.htm
 directory.html
 directorymanager
@@ -38835,7 +38832,6 @@ error_images
 error.jsp
 error_kicker.cfm
 .error_log
-error_log
 error-log
 error.log
 error_log
@@ -40319,7 +40315,6 @@ ezupload
 ezuser
 ezweb
 .f
-?f=*
 _f
 f
 F
@@ -40798,7 +40793,6 @@ favico.ico
 favicon
 favicon.gif
 favicon.ico
-favicon.ico
 favicon.ICO
 Favicon.ico
 favicon.jpg
@@ -40821,7 +40815,6 @@ favorited
 favoriten.html
 favorite_nodes
 favorite.php
-?favorites
 favorites
 Favorites
 favoritesadd.asp
@@ -57878,7 +57871,6 @@ lang.php
 lang-pl
 lang-pt
 lang-ro
-?lang.ru
 lang-ru
 langs
 lang-sk
@@ -58650,7 +58642,6 @@ lev
 levant
 level
 *level=12*
-?level=12
 level2
 Level2
 level2.php
@@ -66442,7 +66433,6 @@ msimages
 msimrkt
 msincludes
 msj
-?msk
 msk
 msl
 MSL
@@ -72045,7 +72035,6 @@ opensrs-client
 *_openstat
 *_openstat=
 *openstat
-?_openstat
 openstudio
 opentable
 OpenTemplate.asp
@@ -73921,12 +73910,9 @@ page9.php
 page-about.html
 pagead
 page_addition
-?page=admin.auth.inc
 page.asp
 page.aspx
 Page.aspx
-?page=auth.inc
-?page=auth.inc.php
 pageblock_styles
 page_browser.php
 pagebuilder
@@ -82942,7 +82928,6 @@ publish.asp
 publish.aspx
 published
 publisher
-?Publisher
 Publisher
 publisher.php
 publishers
@@ -83229,7 +83214,6 @@ pznutilities
 pzoaenthl.php
 pzwl
 *?q=
-?q=*
 __q
 q
 Q
@@ -83248,7 +83232,6 @@ QA
 qa.asp
 qadc
 qa_discussion
-?q=admin
 qa-gb
 qagent
 qa.html
@@ -83284,8 +83267,6 @@ qcms.wtc
 QCMS.WTC
 qcodo
 qcodo_helper
-?q=comment
-?q=contact
 qcontent
 Qcontent
 QContent
@@ -83302,7 +83283,6 @@ qdiweb
 QDIWEB
 qdynamo
 qengine
-?q=filter
 qform
 qforms
 Qforms
@@ -83354,7 +83334,6 @@ qlczthb
 QLCZTHb
 qld
 qlio
-?q=logout
 qltcc
 qltco
 qlx
@@ -83375,7 +83354,6 @@ QNAReply.asp
 qnasearch
 qnaupdate.asp
 QNAUpdate.asp
-?q=node
 qnotify
 Qnotify
 QNotify
@@ -83425,7 +83403,6 @@ Qscheduler
 QScheduler
 qs-de
 QS-DE
-?q=search
 qsearch
 qsearch.php
 qs-gb
@@ -83771,7 +83748,6 @@ quote.txt
 quotidiano
 quran
 quran.php
-?q=user
 qv
 qv.aspx
 qvc
@@ -95310,7 +95286,6 @@ sorry.html
 sorry.php
 sorry.shtml
 sorsmse
-?sort=*
 sort
 sort_
 sort-0
@@ -107673,7 +107648,6 @@ vietnam-visa.php
 vietopic.php
 vietvbb
 vieux
-?view=*
 _view
 view
 View
@@ -110851,7 +110825,6 @@ wgs
 wgu
 wh
 wharton
-?&what=
 what
 what3
 whatcom
@@ -111891,7 +111864,6 @@ wp-contents
 wp-contentthemes
 wp-cron
 wp-cron.php
-?wp-cs-dump
 wp-cumulus
 wp-cumulus.php
 wp-custom
@@ -111921,7 +111893,6 @@ wpg_URL
 wp_gus
 WP_GUS
 w.php
-?wp-html-rend
 wpi
 wp-icludes
 wp-images
@@ -112013,10 +111984,8 @@ wp-signup
 wp-signup.php
 wp.sql
 wps_semanticTag
-?wp-start-ver
 wp-stats.php
 wp-stattraq
-?wp-stop-ver
 wp-syntax
 wp-test
 wp_test
@@ -112032,15 +112001,10 @@ wp-tmp
 wp-trackback
 wp-trackback.php
 wptraining
-?wp-uncheckout
 wp-united
 wp-upload
 wp-uploads
 wp-useronline.php
-?wp-usr-prop
-?wp-ver-diff
-?wp-verify-link
-?wp-ver-info
 wpvi
 wp-xmlrpc.php
 wp.zip
